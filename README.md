@@ -1,9 +1,9 @@
 
 # Prueba Técnica: Dashboard de Usuarios con Laravel y Vue.js
 
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vuedotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 Este repositorio contiene la solución completa a una prueba técnica diseñada para evaluar habilidades en desarrollo full-stack con Laravel para el backend y Vue.js 3 para el frontend.
 
