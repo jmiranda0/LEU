@@ -115,6 +115,6 @@ La API proporciona los siguientes endpoints:
 
 <!-- Añade aquí tus redes profesionales si lo deseas -->
 - **GitHub:** `[@tu-usuario](https://github.com/tu-usuario)`
-- **LinkedIn:** `[Tu Nombre](https://www.linkedin.com/in/tu-perfil)`
+- **LinkedIn:** `((https://www.linkedin.com/in/jahzeel-miranda-30632a286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQlRSlWbZQuq6frUzxvtcEQ%3D%3D))`
 
 ---
